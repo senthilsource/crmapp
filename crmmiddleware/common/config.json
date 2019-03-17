@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://blockchainappuser:test1234@ds213665.mlab.com:13665/blockchainapp",
+    "secret": "eappssecretkey"
+}
